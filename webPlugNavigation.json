@@ -676,5 +676,16 @@
       "webOpen": true,
       "click": true
     }
+    {
+      "name": "努努影院(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.nunuyy.cc/dianying/",
+      "webOpen": true,
+      "click": true
+    }
   ]
 }
